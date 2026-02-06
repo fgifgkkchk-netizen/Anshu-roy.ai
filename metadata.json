@@ -1,0 +1,7 @@
+{
+  "name": "Anshu Roy. Ai",
+  "description": "An AI-powered face-matching and style mimic tool with a premium pink design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
